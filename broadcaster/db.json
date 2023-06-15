@@ -1,0 +1,19 @@
+{
+    "name": "Broadcaster",
+    "publisher": "Administrator",
+    "version": "0.0.1",
+    "version_code": 3,
+    "database": [],
+    "widgets": [],
+    "language": "php",
+    "status": 0,
+    "service": null,
+    "supportedLiman": "1.11",
+    "support": "administrator@liman.dev",
+    "icon": "fa-thin fa-bullhorn",
+    "display_name": "Broadcaster",
+    "require_key": "false",
+    "verification": null,
+    "dependencies": null,
+    "sslPorts": null
+}
